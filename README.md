@@ -1,2 +1,2 @@
 # Responsive-Admin-Dashboard
-<img src="responsivePage.PNG">
+<img src="responsivePage.png">
